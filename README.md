@@ -1,2 +1,2 @@
 # memo
-memo app
+memo app : テスト用プロジェクト
